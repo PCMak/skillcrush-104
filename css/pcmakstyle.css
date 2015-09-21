@@ -1,0 +1,30 @@
+/** PCMak styles **/
+
+.pcmak-advice body {
+	padding: 50px;
+	font-family: helvetica;
+}
+
+.pcmak-advice h1, .pcmak-advice h4 {
+	margin: 10px 100px 10px 100px;
+	color: salmon;
+}
+
+.pcmak-advice h1 {
+	padding: 20px;
+	font-size: 3em;
+}
+
+.pcmak-advice h4 {
+	padding: 10px;
+	font-size: 2em;
+}
+
+.pcmak-advice p {
+	margin: 10px 150px 10px 150px;
+	border-radius: 20px;
+	background-color: salmon;
+	color: white;
+	padding: 25px;
+	font-size: 1.5em;
+}
